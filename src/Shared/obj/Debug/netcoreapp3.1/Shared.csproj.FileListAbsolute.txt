@@ -1,0 +1,10 @@
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/bin/Debug/netcoreapp3.1/Shared.deps.json
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/bin/Debug/netcoreapp3.1/Shared.dll
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/bin/Debug/netcoreapp3.1/Shared.pdb
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.AssemblyReference.cache
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfoInputs.cache
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfo.cs
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.CoreCompileInputs.cache
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.dll
+/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/obj/Debug/netcoreapp3.1/Shared.pdb

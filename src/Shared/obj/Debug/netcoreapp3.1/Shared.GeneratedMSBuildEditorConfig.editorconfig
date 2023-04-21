@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Shared
+build_property.ProjectDir = /home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/

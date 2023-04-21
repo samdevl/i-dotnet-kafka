@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QskhlwglAflSuG4Fer3YGktnvbJQGsYpO9hFSZpx/8fhG7jqjGBl+zRylr0YjepF/9Lakmr2EN/qZNNma6iFg==",
+  "success": true,
+  "projectFilePath": "/home/gonzalez_l/Projects/i-dotnet-kafka/src/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/gonzalez_l/.nuget/packages/confluent.kafka/1.5.1/confluent.kafka.1.5.1.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/librdkafka.redist/1.5.0/librdkafka.redist.1.5.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.hosting.abstractions/6.0.0/microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/home/gonzalez_l/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
